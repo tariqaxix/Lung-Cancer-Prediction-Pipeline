@@ -1,6 +1,6 @@
 # Lung Cancer Risk Prediction - Data Pipeline
 
-**Data-Driven Computing Architectures 2026 | Final Project**
+**Data-Driven Computing Architectures | Final Project**
 
 
 ## Project Overview
